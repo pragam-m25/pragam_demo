@@ -1,3 +1,4 @@
 # pragam_demo
 learning about git and github
-AUTHOR--Pragam
+<br>
+<b><i>AUTHOR--Pragam</i></b>
